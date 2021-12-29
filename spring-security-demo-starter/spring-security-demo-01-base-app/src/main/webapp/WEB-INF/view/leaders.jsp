@@ -13,7 +13,7 @@
 <p>
 	See you in Brazil ... for our annual Leadership retreat!
 	<br>
-	Keep this strip a secret, don't tell the regular employees LOL :-)
+	Keep this trip a secret, don't tell the regular employees LOL :-)
 </p>
 
 <hr>
