@@ -19,7 +19,7 @@
 <h3>My Custom Login Page</h3>
 
 	<form:form action="${pageContext.request.contextPath}/authenticateTheUser"
-			   method="POST">
+			   method=" ">
 	
 		<!-- Check for login error -->
 	
