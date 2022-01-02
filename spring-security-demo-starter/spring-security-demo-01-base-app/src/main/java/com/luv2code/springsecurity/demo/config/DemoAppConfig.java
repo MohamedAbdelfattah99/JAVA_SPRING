@@ -73,7 +73,7 @@ public class DemoAppConfig {
 		
 		// set database connection props
 		
-		securityDataSource.setJdbcUrl(("jdbc:mysql://localhost:3306/spring_security_demo_plaintext?useSSL=false"));
+		securityDataSource.setJdbcUrl(("jdbc:mysql://localhost:3306/spring_security_demo_bcrypt?useSSL=false"));
 		securityDataSource.setUser(("root"));
 		securityDataSource.setPassword((""));
 		
