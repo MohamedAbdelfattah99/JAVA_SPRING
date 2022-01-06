@@ -4,6 +4,6 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="context-root" value="spring-rest-demo"/>
-        <property name="java-output-path" value="/solution-code-spring-rest-demo-hello-world-with-jsp-home-page/target/classes"/>
+        <property name="java-output-path" value="/spring-rest-demo/target/classes"/>
     </wb-module>
 </project-modules>
