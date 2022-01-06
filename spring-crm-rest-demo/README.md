@@ -1,3 +1,4 @@
-# Simple_CRM_App
+# CRM API
  
-Creating A Webbased Crud System CRM Using  java spring and hibernate  
+Creating An API for add get update delete customers by mysql data base using spring 5.02
+
